@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/kamilapereira/react.git/static/css/main.7cbcf965.css",
+    "main.js": "/kamilapereira/react.git/static/js/main.42e5bad1.js",
+    "static/media/corporate.jpg": "/kamilapereira/react.git/static/media/corporate.fa955fdff629baaffa73.jpg",
+    "index.html": "/kamilapereira/react.git/index.html",
+    "main.7cbcf965.css.map": "/kamilapereira/react.git/static/css/main.7cbcf965.css.map",
+    "main.42e5bad1.js.map": "/kamilapereira/react.git/static/js/main.42e5bad1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cbcf965.css",
+    "static/js/main.42e5bad1.js"
+  ]
+}
